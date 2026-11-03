@@ -3,11 +3,11 @@
 # 🏙️ 3D Citizen
 
 ### A 3D project built in Scratch — Winner of the *Scratch Competition 2021* (4th–6th Year category)
-### 🎓 Finalist at the *BT Young Scientist & Technology Exhibition 2021*
+### 🎓 Winner of the 4th–6th Year category at the *BT Young Scientist & Technology Exhibition 2021*
 
 [![Play on Scratch](https://img.shields.io/badge/▶_Play-Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/projects/484725866)
 [![Scratch Competition 2021](https://img.shields.io/badge/🏆_Scratch_Competition_2021-4th–6th_Year_Winner-4C97FF?style=for-the-badge)](https://www.scratch.ie/competition2021/)
-[![BT Young Scientist](https://img.shields.io/badge/BT_Young_Scientist-2021_Finalist-9966FF?style=for-the-badge)](#-recognition)
+[![BT Young Scientist](https://img.shields.io/badge/BT_Young_Scientist_2021-4th–6th_Year_Winner-9966FF?style=for-the-badge)](#-recognition)
 ![Made with Scratch](https://img.shields.io/badge/Made_with-Scratch_3.0-FF6680?style=for-the-badge)
 
 </div>
@@ -21,6 +21,20 @@
 Scratch is a 2D environment by design. This project goes further by delivering a **three-dimensional** experience, which means rethinking how space, depth and the player's point of view are represented using nothing but blocks.
 
 > 🎮 **[Play 3D Citizen on Scratch →](https://scratch.mit.edu/projects/484725866)**
+
+---
+
+## 🕹️ Gameplay
+
+The game is a maze adventure with **three different scenarios**:
+
+| Scenario | Theme |
+|---|---|
+| 🦠 **Covid** | Navigating the maze in the context of the pandemic |
+| 🌍 **Save the Environment** | Environmental awareness |
+| 🦁 **Zoos** | Animals and wildlife |
+
+In each level, the player has to **find two hidden items** to unlock the next level, while trying to **find the exit of the maze**. Every scenario has **6 levels** that become progressively harder.
 
 ---
 
@@ -38,9 +52,13 @@ The project was named **winner of the 4th–6th Year category** of the **Scratch
 | **School** | Coláiste Muire, Crosshaven, Co. Cork |
 | **Official results** | [scratch.ie/competition2021](https://www.scratch.ie/competition2021/) |
 
-### BT Young Scientist & Technology Exhibition 2021 — Finalist
+### BT Young Scientist & Technology Exhibition 2021 — Finalist & category winner
 
-3D Citizen also took me to the **final of the BT Young Scientist & Technology Exhibition**, one of Ireland's largest science and technology competitions for young people. I completed the project during the 2020–2021 lockdown, a demanding context. The local press (*Carrigdhoun*) [highlighted the achievement](https://www.carrigdhoun.com/post/col%C3%A1iste-muire-crosshaven-awards) for both me and my school.
+3D Citizen also took me to the **final of the BT Young Scientist & Technology Exhibition**, one of Ireland's largest science and technology competitions for young people. I completed the project during the 2020–2021 lockdown, a demanding context, and three students from my school worked hard to submit their projects in time.
+
+To prepare for the finals, I built **my own website** presenting the project and its main features. On **21 April 2021**, I presented 3D Citizen remotely to two judges. They were very enthusiastic and praised the high standard of the work, my problem-solving skills and my level of understanding. That same afternoon, at the final ceremony, I was announced the **winner of the 4th–6th year category**.
+
+The local press (*Carrigdhoun*) covered the achievement for both me and my school: 👉 [**Read the article: "Coláiste Muire Crosshaven Awards"**](https://www.carrigdhoun.com/post/col%C3%A1iste-muire-crosshaven-awards)
 
 ---
 
@@ -48,7 +66,8 @@ The project was named **winner of the 4th–6th Year category** of the **Scratch
 
 - **Pushing the tool beyond its limits**: building 3D in an environment designed for 2D is both a technical and a creative challenge.
 - **100% Scratch**: no external libraries, only blocks, variables, lists and logic.
-- **Nationally recognised**: awarded by a jury of professionals and computer science researchers.
+- **Nationally recognised**: awarded by a jury of professionals and computer science researchers, and praised by the BT Young Scientist judges.
+- **Rich content**: 3 scenarios and 6 progressive levels each, 18 levels in total.
 - **Delivered under constraints**: designed and finished during the COVID-19 restrictions.
 
 ---
